@@ -1,0 +1,16 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "API on top of spotify web api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prithvi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.14.2"
+  }
+}
