@@ -7,7 +7,7 @@ app.listen(5200, () => {
 });
 
 
-app.get("/", async (req, res) => {
+app.get("/spotify", async (req, res) => {
     res.json({
         "data": "this is test data"
     })
